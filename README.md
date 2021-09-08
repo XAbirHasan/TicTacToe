@@ -9,9 +9,7 @@ Year: 2017
 
 ## Demo Video
 
-<video width="400" controls>
-  <source src="mov_bbb.mp4" type="demo/demo_video.mp4">
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/4YXvIjoFmRw/0.jpg)](http://www.youtube.com/watch?v=4YXvIjoFmRw "Tic Tac Toe || C++ Project")
 
 
 ## Screen shot
