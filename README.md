@@ -1,5 +1,5 @@
 # TicTacToe
-This game was made in 2017. I use C++ for it. I also use min-max algorithm for the bot system, and you cannot able to win with this. ;)
+This game was made in 2017. I use C++ for it. I also use the min-max algorithm for the bot system, and you cannot win with this. ;)
 
 ## Project description
 Name: Tic Tac Toe <br>
